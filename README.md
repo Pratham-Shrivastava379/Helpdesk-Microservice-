@@ -5,7 +5,8 @@ A full-stack support ticket system built with React, Spring Boot, and PostgreSQL
 HelpDesk separates authentication and user management from ticket management
 using two independent Spring Boot services, each with its own PostgreSQL database.
 
-[Live Demo](https://frontend-production-b347.up.railway.app)
+[Demo Video]([https://frontend-production-b347.up.railway.app](https://youtu.be/6yJbNEUu_gw))
+Live Demo not usable anymore due to expiry of free credits to host it.
 
 ![HelpDesk Dashboard](docs/screenshot/dashboard.png)
 
