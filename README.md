@@ -6,7 +6,7 @@ HelpDesk separates authentication and user management from ticket management usi
 
 [Demo Video](https://youtu.be/6yJbNEUu_gw)
 
-Live Demo is no longer available due to the expiry of free hosting credits.
+Live Demo is no longer available in order to prevent wastage of resources.
 ![HelpDesk Dashboard](docs/screenshot/dashboard.png)
 
 ## What it does
